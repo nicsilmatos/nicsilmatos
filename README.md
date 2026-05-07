@@ -1,16 +1,37 @@
-## Hi there 👋
+## Olá! Eu sou uma Desenvolvedora em formação e entusiasta de Dados. 🚀
 
-<!--
-**nicsilmatos/nicsilmatos** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<h1 align="center">Nicole Matos</h1>
+<p align="center">Atualmente, sou estudante de Ciência de Dados na Universidade Federal de Sergipe. Meu foco está em transformar problemas complexos em soluções digitais fluidas, unindo o poder da análise de dados com o desenvolvimento de software.</p>
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### Tecnologias e Ferramentas
+
+<p align="center">
+<img src="https://skillicons.dev/icons?i=python,js,c,git,github,html,css" />
+</p>
+
+
+### 
+
+<p align="center">
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=nicsilmatos&layout=compact&theme=dracula)
+"/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=nicsilmatos&layout=compact&theme=tokyonight"/>
+</p>
+
+
+
+### Conecte-se comigo
+
+<p align="center">
+
+<a href="https://github.com/nicsilmatos">
+<img src="https://skillicons.dev/icons?i=github" />
+</a>
+
+<a href="nicsilmatos@gmail.com">
+<img src="https://skillicons.dev/icons?i=gmail" /> 
+</a>
+
+</p>
