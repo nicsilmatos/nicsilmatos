@@ -1,4 +1,4 @@
-## Olá! Eu sou uma Desenvolvedora em formação e entusiasta de Dados. 🚀
+## Olá! Sou uma Desenvolvedora em formação e entusiasta de Dados. 🚀
 
 <h1 align="center">Nicole Matos</h1>
 <p align="center">Atualmente, sou estudante de Ciência de Dados na Universidade Federal de Sergipe. Meu foco está em transformar problemas complexos em soluções digitais fluidas, unindo o poder da análise de dados com o desenvolvimento de software.</p>
@@ -8,7 +8,7 @@
 ### Tecnologias e Ferramentas
 
 <p align="center">
-<img src="https://skillicons.dev/icons?i=python,js,c,git,github,html,css" />
+<img src="https://skillicons.dev/icons?i=python,js,c,git,github,html,css,react" />
 </p>
 
 
