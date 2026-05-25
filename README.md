@@ -8,7 +8,7 @@
 ### Tecnologias e Ferramentas
 
 <p align="center">
-<img src="https://skillicons.dev/icons?i=python,js,c,git,github,html,css,react" />
+<img src="https://skillicons.dev/icons?i=python,js,c,git,html,css,react" />
 </p>
 
 
