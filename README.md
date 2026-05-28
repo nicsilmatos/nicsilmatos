@@ -8,18 +8,18 @@
 ### Tecnologias e Ferramentas
 
 <p align="center">
-<img src="https://skillicons.dev/icons?i=python,js,c,git,html,css,react" />
+<img src="https://skillicons.dev/icons?i=python,js,c,git,html,css,react,vite" />
 </p>
 
 
 ### 
 
-<p align="center">
+<!-- <p align="center">
 <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=nicsilmatos&layout=compact&theme=dracula)
 "/>
 <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=nicsilmatos&layout=compact&theme=tokyonight"/>
 </p>
-
+ -->
 
 
 ### Conecte-se comigo
