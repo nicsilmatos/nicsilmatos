@@ -15,12 +15,12 @@
        ⠀⠀⠀⠀⠀⠀⠀⠉⠢⠶⠀⣀⣀⣤⣀⣀⣀⣀⣀⣀⣀⡤⠤⠤⠤⠦⠋⠀
 </pre>
 
-## Sobre mim:
+## >👩‍💻 Sobre mim:
 
-- Entrado no mundo da programação!
-- Meu foco está em transformar problemas complexos em soluções digitais fluidas, unindo o poder da análise de dados com o desenvolvimento de software.
 - Cursando Ciência de Dados na Universidade Federal de Sergipe.
-- Buscando unir a criatividade com a tecnologia.
+- Meu foco está em transformar problemas complexos em soluções digitais fluidas, unindo o poder da análise de dados com o desenvolvimento de software.
+- Entrado no mundo da programação!
+- Explorando onde a criatividade encontra tecnologia
 
 ## Skill Set:
 
@@ -44,7 +44,7 @@
 </td><td valign="top" width="25%">
   
 ### Outros
-<a href="https://github.com/tayyabadev">
+<a href="https://github.com/nicsilmatos">
 <div align="center">
        <img src="https://skillicons.dev/icons?i=git,github,figma,vscode&perline=4" /> 
 </div>
@@ -55,7 +55,7 @@
 
 ## Conecte-se comigo:
 <div align="center">
-    <a href="www.linkedin.com/in/nicolesilmatos">
+    <a href="https://www.linkedin.com/in/nicolesilmatos">
       <img src="https://skillicons.dev/icons?i=linkedin" /> 
     </a>
     <a href="nicsilmatos@gmail.com">
@@ -66,7 +66,6 @@
  ## Github Stats:
 <p align="center">
     <a href="https://github.com/nicsilmatos">
-        <img height="180em" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=nicsilmatos&show_icons=true&theme=onedark&include_all_commits=true&count_private=true&hide_border=true"/>
         <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=nicsilmatos&langs_count=12&layout=compact&langs_count=8&theme=onedark&include_all_commits=true&count_private=true&hide_border=true" />
     </a>
 </p>
