@@ -37,7 +37,7 @@
 ### Linguagens
 <a href="https://github.com/nicsilmatos">
 <div align="center">
-       <img src="https://skillicons.dev/icons?i=python,c,postgresql,cs, js&perline=4" /> 
+       <img src="https://skillicons.dev/icons?i=python,c,postgresql,cs,js&perline=4" /> 
 </div>
 </a>
 
