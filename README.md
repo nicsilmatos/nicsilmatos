@@ -15,7 +15,7 @@
        ⠀⠀⠀⠀⠀⠀⠀⠉⠢⠶⠀⣀⣀⣤⣀⣀⣀⣀⣀⣀⣀⡤⠤⠤⠤⠦⠋⠀
 </pre>
 
-## >👩‍💻 Sobre mim:
+## 👩‍💻 Sobre mim:
 
 - Cursando Ciência de Dados na Universidade Federal de Sergipe.
 - Meu foco está em transformar problemas complexos em soluções digitais fluidas, unindo o poder da análise de dados com o desenvolvimento de software.
@@ -37,7 +37,7 @@
 ### Linguagens
 <a href="https://github.com/nicsilmatos">
 <div align="center">
-       <img src="https://skillicons.dev/icons?i=c,js,cs,python,postgresql&perline=4" /> 
+       <img src="https://skillicons.dev/icons?i=python,c,postgresql,cs, js&perline=4" /> 
 </div>
 </a>
 
