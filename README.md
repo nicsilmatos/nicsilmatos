@@ -1,37 +1,72 @@
-## Hello, World!
+# Hello, World!
 
-<h1 align="center">Nicole Matos</h1>
-<p align="center">Atualmente, sou estudante de Ciência de Dados na Universidade Federal de Sergipe. Meu foco está em transformar problemas complexos em soluções digitais fluidas, unindo o poder da análise de dados com o desenvolvimento de software.</p>
+<pre>
+       ⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⡤⠂⠉⡉⠹⢂⡀
+       ⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⣜⠀⠀⡠⣟⠀⡮⠁
+       ⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⢰⠇⠀⢴⠀⠘⢢⣷⠇
+       ⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⡆⠀⠀⢸⡄⠀⢸⠀⠀⠈⢾⠀
+       ⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠉⠅⡏⠍⠀⠐⢞⣆⠀⢢⠀⠀⠈⠀
+       ⠀⠀⠀⠀⠀⠀⠀⠤⠤⣄⠲⡢⢤⣀⠀⠀⠁⠀⠀⠀⠈⢪⠂⠀⠳⡄⠀⠀
+       ⠀⠀⠀⢀⣀⣐⣶⣲⠾⣭⣭⣉⣡⣬⠭⣗⡠⡀⠀⠀⠀⠀⠳⡀⠀⢺⡄⠀
+       ⠀⠀⠀⠘⠻⣴⠤⣠⠀⢀⠀⠀⠀⠀⠀⠈⠑⠛⢷⢦⡀⠀⠀⠱⡀⠘⡻⡄
+       ⠐⢦⢄⡀⠘⢯⡍⠁⠀⠈⣷⣂⠀⠀⠀⠀⠀⠀⠀⠀⠙⠢⡀⠀⢱⠀⠛⡁
+       ⠀⠀⠐⠷⣌⢉⠙⢷⡄⡀⠀⠉⣯⣂⠀⠀⠀⠀⠀⠀⠀⠀⠘⠦⢾⠆⠀⠝
+       ⠀⠀⠀⠀⠈⠻⢼⡒⠚⠛⠶⠦⠀⠈⠁⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⢰⠇
+       ⠀⠀⠀⠀⠀⠀⠀⠉⠢⠶⠀⣀⣀⣤⣀⣀⣀⣀⣀⣀⣀⡤⠤⠤⠤⠦⠋⠀
+</pre>
 
----
+## Sobre mim:
 
-### Tecnologias e Ferramentas
+- Entrado no mundo da programação!
+- Meu foco está em transformar problemas complexos em soluções digitais fluidas, unindo o poder da análise de dados com o desenvolvimento de software.
+- Cursando Ciência de Dados na Universidade Federal de Sergipe.
+- Buscando unir a criatividade com a tecnologia.
 
-<p align="center">
-<img src="https://skillicons.dev/icons?i=python,js,c,cs,git,html,css,react,vite" />
-</p>
+## Skill Set:
 
+<table><tr><td valign="top" width="25%">
 
-### 
-
-<!-- <p align="center">
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=nicsilmatos&layout=compact&theme=dracula)
-"/>
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=nicsilmatos&layout=compact&theme=tokyonight"/>
-</p>
- -->
-
-
-### Conecte-se comigo
-
-<p align="center">
-
+### Frontend  
 <a href="https://github.com/nicsilmatos">
-<img src="https://skillicons.dev/icons?i=github" />
+<div align="center">  
+       <img src="https://skillicons.dev/icons?i=html,css,react,vite,js&perline=4" /> 
+</div>
+</a>
+ </td><td valign="top" width="25%">
+        
+### Linguagens
+<a href="https://github.com/nicsilmatos">
+<div align="center">
+       <img src="https://skillicons.dev/icons?i=c,js,cs,python,postgresql&perline=4" /> 
+</div>
 </a>
 
-<a href="nicsilmatos@gmail.com">
-<img src="https://skillicons.dev/icons?i=gmail" /> 
+</td><td valign="top" width="25%">
+  
+### Outros
+<a href="https://github.com/tayyabadev">
+<div align="center">
+       <img src="https://skillicons.dev/icons?i=git,github,figma,vscode&perline=4" /> 
+</div>
 </a>
+</td>
+</tr></table>
 
+
+## Conecte-se comigo:
+<div align="center">
+    <a href="www.linkedin.com/in/nicolesilmatos">
+      <img src="https://skillicons.dev/icons?i=linkedin" /> 
+    </a>
+    <a href="nicsilmatos@gmail.com">
+     <img src="https://skillicons.dev/icons?i=gmail" /> 
+    </a>
+</div>
+
+ ## Github Stats:
+<p align="center">
+    <a href="https://github.com/nicsilmatos">
+        <img height="180em" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=nicsilmatos&show_icons=true&theme=onedark&include_all_commits=true&count_private=true&hide_border=true"/>
+        <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=nicsilmatos&langs_count=12&layout=compact&langs_count=8&theme=onedark&include_all_commits=true&count_private=true&hide_border=true" />
+    </a>
 </p>
