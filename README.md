@@ -15,12 +15,12 @@
        ⠀⠀⠀⠀⠀⠀⠀⠉⠢⠶⠀⣀⣀⣤⣀⣀⣀⣀⣀⣀⣀⡤⠤⠤⠤⠦⠋⠀
 </pre>
 
-## 👩‍💻 Sobre mim:
+## 👩‍💻 About me:
 
-- Cursando Ciência de Dados na Universidade Federal de Sergipe.
-- Meu foco está em transformar problemas complexos em soluções digitais fluidas, unindo o poder da análise de dados com o desenvolvimento de software.
-- Entrado no mundo da programação!
-- Explorando onde a criatividade encontra tecnologia
+- Pursuing a Bachelor's in Data Science at the Federal University of Sergipe (UFS).
+- My focus is on transforming complex problems into fluid digital solutions, combining the power of data analysis with software development.
+- Stepping into the world of programming!
+- Exploring where creativity meets technology.
 
 ## Skill Set:
 
@@ -34,7 +34,7 @@
 </a>
  </td><td valign="top" width="25%">
         
-### Linguagens
+### Languages
 <a href="https://github.com/nicsilmatos">
 <div align="center">
        <img src="https://skillicons.dev/icons?i=python,c,postgresql,cs,js&perline=4" /> 
@@ -43,7 +43,7 @@
 
 </td><td valign="top" width="25%">
   
-### Outros
+### Others
 <a href="https://github.com/nicsilmatos">
 <div align="center">
        <img src="https://skillicons.dev/icons?i=git,github,figma,vscode,npm&perline=4" /> 
@@ -53,7 +53,7 @@
 </tr></table>
 
 
-## Conecte-se comigo:
+## Connect with me:
 <div align="center">
     <a href="https://www.linkedin.com/in/nicolesilmatos">
       <img src="https://skillicons.dev/icons?i=linkedin" /> 
