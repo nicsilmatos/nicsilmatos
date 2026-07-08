@@ -46,7 +46,7 @@
 ### Others
 <a href="https://github.com/nicsilmatos">
 <div align="center">
-       <img src="https://skillicons.dev/icons?i=git,github,figma,vscode,npm&perline=4" /> 
+       <img src="https://skillicons.dev/icons?i=git,github,figma,vscode,npm,supabase&perline=4" /> 
 </div>
 </a>
 </td>
